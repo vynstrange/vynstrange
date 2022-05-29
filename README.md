@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/vynstrange/portfolio)
 
-- 🌱 I’m currently learning **Javascript, Node.js**
+- 🌱 I’m currently learning **Javascript, Node.js, HTML, CSS**
 
 - 📫 How to reach me **vincentstrange89@gmail.com**
 
