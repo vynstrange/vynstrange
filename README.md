@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VynStrange</h1>
-<h3 align="center">A learning backend developer from Arkansas</h3>
+<h3 align="center">A learning frontend developer from Arkansas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vynstrange&label=Profile%20views&color=0e75b6&style=flat-square" alt="vynstrange" /> </p>
 
