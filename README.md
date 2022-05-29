@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vynstrange&label=Profile%20views&color=0e75b6&style=flat-square" alt="vynstrange" /> </p>
 
-- 🔭 I’m currently working on [MessageGenerator](https://github.com/vynstrange/MessageGenerator)
+- 🔭 I’m currently working on [Portfolio](https://github.com/vynstrange/portfolio)
 
 - 🌱 I’m currently learning **Javascript, Node.js**
 
